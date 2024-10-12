@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LFilePicker.iml" filepath="$PROJECT_DIR$/LFilePicker.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lfilepickerlibrary/lfilepickerlibrary.iml" filepath="$PROJECT_DIR$/lfilepickerlibrary/lfilepickerlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LFilePicker.iml" filepath="$PROJECT_DIR$/.idea/modules/LFilePicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LFilePicker.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LFilePicker.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LFilePicker.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LFilePicker.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LFilePicker.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LFilePicker.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LFilePicker.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LFilePicker.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lfilepickerlibrary/LFilePicker.lfilepickerlibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/lfilepickerlibrary/LFilePicker.lfilepickerlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lfilepickerlibrary/LFilePicker.lfilepickerlibrary.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lfilepickerlibrary/LFilePicker.lfilepickerlibrary.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lfilepickerlibrary/LFilePicker.lfilepickerlibrary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lfilepickerlibrary/LFilePicker.lfilepickerlibrary.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lfilepickerlibrary/LFilePicker.lfilepickerlibrary.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lfilepickerlibrary/LFilePicker.lfilepickerlibrary.unitTest.iml" />
     </modules>
   </component>
 </project>
